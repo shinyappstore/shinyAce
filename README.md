@@ -1,6 +1,6 @@
 ![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s430_EJYshtAoRzwnadlYfzrUscwpqEwCk6hYPA0bWkaw_logo_98.jpg)
 
-# shinyAce: Interactively integrate the Ace editor with Shiny 
+# shinyAce: Interactively integrate the Ace editor with Shiny by Jeff Allen
 
 #### Use app online: __[www.shinyappstore.com/a/shinyAce](https://shinyappstore.com/a/shinyAce)__
 
